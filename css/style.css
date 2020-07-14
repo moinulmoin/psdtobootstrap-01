@@ -1,0 +1,102 @@
+body {
+    font-family: 'PT Sans', sans-serif;
+}
+
+.intro {
+    background-color: #fcdb00;
+}
+
+header {
+    padding: 15px 0;
+}
+
+.slider {
+    padding: 40px 0 100px;
+}
+
+.menu a {
+    color: #010101 !important;
+    font-size: 22px;
+    font-weight: bold;
+    margin-left: 65px;
+}
+
+.s_content {
+    margin-top: 65px;
+    padding-right: 30px;
+}
+
+.c_heading {
+    font-size: 32px;
+    font-weight: 700;
+    color: #010101;
+    margin-bottom: 25px;
+}
+
+.c_sub-heading {
+    font-size: 20px;
+    font-weight: 400;
+    color: #313841;
+    word-spacing: 3px;
+}
+
+.c_text {
+    font-size: 16px;
+    font-weight: 400;
+    color: #555555;
+    margin-top: 20px;
+    margin-bottom: 40px;
+    word-spacing: 1px;
+}
+
+.icon-list li{
+    margin-right: 35px !important;
+}
+
+.icon-list li ion-icon {
+    font-size: 40px;
+}
+
+.s_img {
+    padding-left: 60px;
+}
+
+.custom-indicator {
+    bottom: -80px;
+}
+
+.custom-indicator li{
+    width: 15px;
+    height: 15px;
+    border-radius: 50%;
+}
+
+.service {
+    padding: 100px 0 60px;
+}
+
+.ser_content {
+    margin-bottom: 80px;
+}
+
+.ser_item{
+    margin-bottom: 65px;
+}
+
+.ser_item-icon ion-icon{
+    font-size: 50px;
+}
+
+.ser_item-heading {
+    font-size: 22px;
+    color: #010101;
+}
+
+.ser_item-text {
+    font-size: 16px;
+    color: #898989;
+    margin-top: 15px;
+}
+
+
+
