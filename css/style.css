@@ -98,5 +98,70 @@ header {
     margin-top: 15px;
 }
 
+.lastHeadingColor {
+    color: #fcdb00;
+}
+
+.lastSubHeadingColor {
+    color: #898989;
+}
+.contact {
+    background-color: #010101;
+    color: #fff;
+    padding: 100px 0 120px;
+}
+
+.btn-custom {
+    height: 50px;
+    width: 128px;
+    font-size: 16px;
+    font-weight: 700;
+    color: #010101;
+    background-color: #fcdb00;
+}
+
+.input-custom {
+    height: 50px;
+}
+
+.submit_section {
+    margin: 40px 0 80px;
+}
+
+.social-icon-groups {
+        display: flex;
+        justify-content: center;
+}
+
+.social-icon-groups li{
+    background-color: #fcdb00;
+    width: 40px;
+    height: 40px;
+    border-radius: 8px;
+    margin-left: 30px;
+    display: inline-flex;
+    justify-content: center;
+    align-items: center;
+    cursor: pointer;
+}
+
+.social-icon-groups li:first-child {
+    margin: 0px;
+}
+.social-icon-groups li i {
+    color: #010101;
+    font-size: 32px;
+}
+
+.addressLink,
+.otherLink {
+    list-style: none;
+    cursor: pointer;
+}
+
+.link-groups {
+    margin-top: 120px;
+}
+
 
 
